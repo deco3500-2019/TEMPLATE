@@ -1,4 +1,4 @@
-# HoopsFinder
+# Project Name Here
 ***
 ## Link To Project Proposal
 link to wiki page here for proposal
