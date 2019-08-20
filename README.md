@@ -1,10 +1,10 @@
 # HoopsFinder
 ***
 ## Link To Project Proposal
-https://github.com/deco3500-2017/HoopsFinder/wiki/Project-Proposal
+link to wiki page here for proposal
 
 ## Link to Final Report
-https://github.com/deco3500-2017/HoopsFinder/wiki
+link to wiki page here for final report
 
 ## Link to Working Prototype, Promotional Material, and Documentation  
-https://github.com/deco3500-2017/HoopsFinder/wiki/Documentation
+link to relevant links for prototype, promotional material & documentation
